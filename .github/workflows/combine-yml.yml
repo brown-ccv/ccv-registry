@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Combine YAML files
+      - name: Combine YAML
         uses: brown-ccv/gh-actions/combine-yml@action-combine-yml
         with:
           files: "*/*.yml"
