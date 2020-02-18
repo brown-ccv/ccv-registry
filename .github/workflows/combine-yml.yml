@@ -13,4 +13,4 @@ jobs:
       - name: Combine YAML files
         uses: brown-ccv/gh-actions/combine-yml@action-combine-yml
         with:
-          input: "*/*.yml"
+          files: "*/*.yml"
