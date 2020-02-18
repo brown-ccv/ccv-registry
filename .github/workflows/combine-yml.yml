@@ -1,0 +1,16 @@
+name: Combine YAML
+
+on:
+  push:
+    branches:
+      - action-test
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Combine YAML files
+        uses: brown-ccv/gh-actions/combine-yml@action-combine-yml
+        with:
+          input: "*/*.yml"

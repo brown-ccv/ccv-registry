@@ -1,0 +1,10 @@
+repo: "https://github.com/brown-ccv/ccv-con"
+name: "CCV-Con Slide Archive"
+authors:
+  - name: "Fernando Gelin"
+    github_user: fernandogelin
+  - name: "Mary McGrath"
+    github_user: mcmcgrath13
+  - name: "Paul Stey"
+    github_user: paulstey
+description: "This repo houses links to the publically available slides from presentations at the CCV-Con Conference at Brown University."
