@@ -9,14 +9,14 @@ authors:
 description: "A two week summer workshop with the goal to introduce the participants to python and the most important aspects of natural language processing and machine learning."
 happening_next:
 details: |
-  #Markdown
-  ##Subtitle
-  **bold**
-  ~~strikethrough~~
-  *italics*
-  -list
-  >blockquote
-  `inline code`
-  ```
-  code block
+  # Markdown  
+  ## Subtitle  
+  **bold**  
+  ~~strikethrough~~  
+  *italics*  
+  - list  
+  > blockquote  
+  `inline code`  
+  ```  
+  code block  
   ```
