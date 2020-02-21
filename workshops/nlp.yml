@@ -6,3 +6,14 @@ authors:
   - name: Ashley Lee
     github_user: alee35
 description: "A two week summer workshop with the goal to introduce the participants to python and the most important aspects of natural language processing and machine learning."
+happening_next:
+details: "
+# Markdown
+## Subtitle
+- list
+> blockquote
+`inline code`
+```
+code block
+```
+"
