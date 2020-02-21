@@ -1,5 +1,6 @@
 repo: https://github.com/brown-ccv//ccv-status-frontend
 name: CCV Status Page
+slug: statuspage
 authors:
   - name: Fernando Gelin
     github_user: fernandogelin

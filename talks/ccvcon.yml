@@ -1,5 +1,6 @@
 repo: "https://github.com/brown-ccv/ccv-con"
 name: "CCV-Con Slide Archive"
+slug: ccvcon
 authors:
   - name: "Fernando Gelin"
     github_user: fernandogelin
