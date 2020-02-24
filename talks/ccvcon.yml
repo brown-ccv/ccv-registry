@@ -1,6 +1,9 @@
 repo: "https://github.com/brown-ccv/ccv-con"
 name: "CCV-Con Slide Archive"
 slug: ccvcon
+group: CCV
+category: Conference
+image: https://raw.githubusercontent.com/brown-ccv/ccvcon-website/develop/themes/brown-simple/static/images/og-image.png
 authors:
   - name: "Fernando Gelin"
     github_user: fernandogelin

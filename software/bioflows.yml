@@ -1,6 +1,9 @@
 repo: https://github.com/compbiocore/bioflows
 name: bioflows
 slug: bioflows
+group: CBC
+category: Computational Biology
+image: https://compbiocore.github.io/bioflows/assets/ngxbio_icons_b_rna_sequencing_1_4.png
 authors:
   - name: Ashok Ragavendran
     github_user: ashokrags

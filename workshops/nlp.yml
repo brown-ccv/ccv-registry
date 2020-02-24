@@ -1,6 +1,9 @@
 repo: https://github.com/brown-ccv/nlp_workshop_material
 name: Introduction to python, natural language processing, and machine learning
+group: CCV
+category: Data Science
 slug: nlp_workshop
+image:
 authors:
   - name: Andras Zsom
     github_user: azsom
