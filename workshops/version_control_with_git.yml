@@ -5,6 +5,6 @@ category: Software Engineering
 authors:
   - name: Helen Kershaw
     github_user: hkershaw-brown
-site_description: A practical introduction to version control using Git
+description: A practical introduction to version control using Git
 type: workshop
 group: CCV
