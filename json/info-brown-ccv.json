@@ -1,0 +1,105 @@
+[
+  {
+    "repo": "nlp_workshop_material",
+    "site_name": "Introduction to python, natural language processing, and machine learning",
+    "authors": [
+      {
+        "name": "Andras Zsom",
+        "github_user": "azsom"
+      },
+      {
+        "name": "Ashley Lee",
+        "github_user": "alee35"
+      }
+    ],
+    "site_description": "A two week summer workshop with the goal to introduce the participants to python and the most important aspects of natural language processing and machine learning.",
+    "docs_url": null,
+    "doi": null,
+    "type": "workshop",
+    "registry": [
+      "name",
+      {
+        "url": null
+      }
+    ]
+  },
+  {
+    "repo": "react-aframe-volume-renderer",
+    "site_name": "Volume Renderer",
+    "authors": [
+      {
+        "name": "Camilo Diaz Rodriguez",
+        "github_user": "kmilo9999"
+      },
+      {
+        "name": "Ben Knorlein",
+        "github_user": "BenKnorlein"
+      }
+    ],
+    "repo_url": "https://github.com/brown-ccv/react-aframe-volume-renderer",
+    "site_description": "This project is an effort to integrate data visualization on VR and web browser technologies. It was developed using React-JS and AFrame.",
+    "docs_url": null,
+    "type": "software"
+  },
+  {
+    "repo": "brown-ccv/ccv-status-frontend",
+    "site_name": "Status Page",
+    "authors": [
+      {
+        "name": "Fernando Gelin",
+        "github_user": "fernandogelin"
+      }
+    ],
+    "repo_url": "https://github.com/brown-ccv/ccv-status-frontend",
+    "site_description": "Simple Ember application that uses the GitHub API as backend to display status of CCV Resources.",
+    "type": "software"
+  },
+  {
+    "repo": "slurm",
+    "site_name": "Advanced Slurm",
+    "authors": [
+      {
+        "name": "Helen Kershaw",
+        "github_user": "hkershaw-brown"
+      }
+    ],
+    "site_description": "This workshop is for people who are already familiar with SLURM, but would like to use SLURM's more powerful features. It covers dependent jobs, job arrays and scripting.",
+    "docs_url": "https://github.com/brown-ccv/slurm",
+    "type": "workshop"
+  },
+  {
+    "repo": "ccv-con",
+    "site_name": "CCV-Con Slide Archive",
+    "authors": [
+      {
+        "name": "Fernando Gelin",
+        "github_user": "fernandogelin"
+      },
+      {
+        "name": "Mary McGrath",
+        "github_user": "mcmcgrath13"
+      },
+      {
+        "name": "Paul Stey",
+        "github_user": "paulstey"
+      }
+    ],
+    "repo_url": "https://github.com/brown-ccv/ccv-con",
+    "site_description": "This repo houses links to the publically available slides from presentations at the CCV-Con Conference at Brown University.",
+    "docs_url": null,
+    "type": "workshop"
+  },
+  {
+    "repo": "version-control-with-git",
+    "site_name": "Version Control with Git",
+    "authors": [
+      {
+        "name": "Helen Kershaw",
+        "github_user": "hkershaw-brown"
+      }
+    ],
+    "site_description": "A practical introduction to version control using Git",
+    "docs_url": "https://github.com/brown-ccv/version-control-with-git",
+    "type": "workshop"
+  }
+]
