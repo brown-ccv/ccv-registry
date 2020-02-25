@@ -1,6 +1,7 @@
 repo: https://github.com/dscov-tutorials/gcp-intro
 name: Cloud computing with GCP
 slug: gcp_intro
+category: Cloud Computing
 authors:
   - name: Isabel Restrepo
     github_user: mirestrepo

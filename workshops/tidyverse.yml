@@ -1,6 +1,7 @@
 repo: https://github.com/compbiocore/tidyverse
 name: Tidying, transforming and visualizing data with tidyverse in R
 slug: tideverse2
+category: Data Science
 authors:
   - name: August Guang
     github_user: aguang
